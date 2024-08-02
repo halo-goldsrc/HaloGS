@@ -1,0 +1,7 @@
+game "Halo GoldSrc"
+gamedir "halogs"
+startmap "fire_range"
+training "fire_range"
+gamedll "dlls\hl.dll"
+icon ""
+client "1"

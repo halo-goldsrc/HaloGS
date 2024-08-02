@@ -1,0 +1,400 @@
+sdHLCSG v1.1.2 64-bit (Sep  9 2022)
+seedee's Half-Life Compilation Tools
+Based on code modifications by Sean 'Zoner' Cavanaugh and Vluzacn
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (github.com/seedee/SDHLT/issues)
+-----  BEGIN  sdHLCSG -----
+Command line: "C:/Users/Joe/Desktop/Modding and  Mapping/Seedees/tools/sdHLCSG_x64.exe" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\maps\sl_damnation" 
+Arguments: "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\maps\sl_damnation" -low 
+Entering C:\Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\maps\sl_damnation.map
+
+Current sdHLCSG Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [      12 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+reset logfile         [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [      on ] [      on ]
+estimate              [     off ] [     off ]
+max texture memory    [ 33554432 ] [ 33554432 ]
+max lighting memory   [ 50331648 ] [ 50331648 ]
+priority              [     Low ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [     off ] [     off ]
+clip hull type        [  simple ] [  simple ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+wad configuration file[    None ] [    None ]
+wad.cfg group name    [    None ] [    None ]
+nullfile              [    None ] [    None ]
+nullify trigger       [      on ] [      on ]
+min surface area      [   0.000 ] [   0.000 ]
+brush union threshold [   0.000 ] [   0.000 ]
+map scaling           [    None ] [    None ]
+light name optimize   [      on ] [      on ]
+convert game_text     [      on ] [      on ]
+world extent          [   65536 ] [   65536 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[sdhlt.wad]
+
+CreateBrush:
+ (0.02 seconds)
+CSGBrush:
+ (0.20 seconds)
+
+added 8 additional animating textures.
+Including Wadfile: \Users\Joe\Desktop\Modding and  Mapping\Seedees\tools\sdhlt.wad
+ - Contains 1 used texture, 3.33 percent of map (27 textures in wad)
+Using Wadfile: \Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\fonts.wad
+ - Contains 0 used textures, 0.00 percent of map (3 textures in wad)
+Using Wadfile: \Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\gfx.wad
+ - Contains 0 used textures, 0.00 percent of map (7 textures in wad)
+Using Wadfile: \Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\halflife.wad
+ - Contains 20 used textures, 66.67 percent of map (3116 textures in wad)
+Using Wadfile: \Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\liquids.wad
+ - Contains 1 used texture, 3.33 percent of map (32 textures in wad)
+Using Wadfile: \Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\tempdecal.wad
+ - Contains 0 used textures, 0.00 percent of map (1 textures in wad)
+Using Wadfile: \Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\xeno.wad
+ - Contains 7 used textures, 23.33 percent of map (264 textures in wad)
+Using Wadfile: \Users\Joe\Desktop\Modding and  Mapping\Seedees\tools\hlof.wad
+ - Contains 1 used texture, 3.33 percent of map (628 textures in wad)
+
+Wad files required to run the map: "fonts.wad;gfx.wad;halflife.wad;liquids.wad;tempdecal.wad;xeno.wad;hlof.wad;"
+Texture usage is at 0.30 mb (of 32.00 mb MAX)
+
+Object names  Objects/Maxobjs  Memory / Maxmem  Fullness
+------------  ---------------  ---------------  --------
+models              0/512            0/32768    ( 0.0%)
+planes           9096/32768     181920/655360   (27.8%)
+vertexes            0/65535          0/786420   ( 0.0%)
+nodes               0/32767          0/786408   ( 0.0%)
+texinfos          531/32767      21240/1310680  ( 1.6%)
+faces               0/65535          0/1310700  ( 0.0%)
+* worldfaces        0/32768          0/0        ( 0.0%)
+clipnodes           0/32767          0/262136   ( 0.0%)
+leaves              0/32760          0/917280   ( 0.0%)
+* worldleaves       0/8192           0/0        ( 0.0%)
+marksurfaces        0/65535          0/131070   ( 0.0%)
+surfedges           0/512000         0/2048000  ( 0.0%)
+edges               0/256000         0/1024000  ( 0.0%)
+texdata          [variable]       3456/33554432 ( 0.0%)
+lightdata        [variable]          0/50331648 ( 0.0%)
+visdata          [variable]          0/8388608  ( 0.0%)
+entdata          [variable]      39766/2097152  ( 1.9%)
+* AllocBlock        0/64             0/0        ( 0.0%)
+30 textures referenced
+=== Total BSP file data space used: 246382 bytes ===
+Wad files required to run the map: "fonts.wad;gfx.wad;halflife.wad;liquids.wad;tempdecal.wad;xeno.wad;hlof.wad;"
+0.28 seconds elapsed
+
+-----   END   sdHLCSG -----
+
+
+
+sdHLBSP v1.1.2 64-bit (Sep  9 2022)
+seedee's Half-Life Compilation Tools
+Based on code modifications by Sean 'Zoner' Cavanaugh and Vluzacn
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (github.com/seedee/SDHLT/issues)
+-----  BEGIN  sdHLBSP -----
+Command line: "C:/Users/Joe/Desktop/Modding and  Mapping/Seedees/tools/sdHLBSP_x64.exe" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\maps\sl_damnation" 
+Arguments: "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\maps\sl_damnation" -low 
+
+Current sdHLBSP Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [      12 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [      on ] [      on ]
+estimate            [     off ] [     off ]
+max texture memory  [ 33554432 ] [ 33554432 ]
+priority            [     Low ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noinsidefill        [     off ] [     off ]
+noopt               [     off ] [     off ]
+no clipnode merging [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+nobrink             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 65536)
+remove hull 2       [     off ] [     off ]
+
+
+SolidBSP [hull 0] 500...1000...1500...2000...2425 (0.09 seconds)
+BSP generation successful, writing portal file 'C:\Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\maps\sl_damnation.prt'
+SolidBSP [hull 1] 500...1000...1500...2000...2245 (0.08 seconds)
+SolidBSP [hull 2] 500...1000...1500...1988 (0.08 seconds)
+SolidBSP [hull 3] 500...1000...1500...2000...2280 (0.08 seconds)
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-37,-1656,768)-(37,-1632,1008) in hull 0 of model 5 (entity: classname "func_illusionary", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (-374,-1656,768)-(-301,-1632,1008) in hull 0 of model 6 (entity: classname "func_illusionary", origin "", targetname "")
+Warning: Ambiguous leafnode content ( EMPTY and SOLID ) at (298,-1656,768)-(371,-1632,1008) in hull 0 of model 7 (entity: classname "func_illusionary", origin "", targetname "")
+Reduced 5852 clipnodes to 5315
+Reduced 531 texinfos to 480
+Reduced 30 texdatas to 30 (3456 bytes to 3456)
+Reduced 9096 planes to 3305
+FixBrinks:
+Increased 5315 clipnodes to 5439.
+
+Object names  Objects/Maxobjs  Memory / Maxmem  Fullness
+------------  ---------------  ---------------  --------
+models             21/512         1344/32768    ( 4.1%)
+planes           3305/32768      66100/655360   (10.1%)
+vertexes         7337/65535      88044/786420   (11.2%)
+nodes            2410/32767      57840/786408   ( 7.4%)
+texinfos          480/32767      19200/1310680  ( 1.5%)
+faces            5291/65535     105820/1310700  ( 8.1%)
+* worldfaces     5008/32768          0/0        (15.3%)
+clipnodes        5439/32767      43512/262136   (16.6%)
+leaves           1722/32760      48216/917280   ( 5.3%)
+* worldleaves    1562/8192           0/0        (19.1%)
+marksurfaces     7910/65535      15820/131070   (12.1%)
+surfedges       24802/512000     99208/2048000  ( 4.8%)
+edges           13336/256000     53344/1024000  ( 5.2%)
+texdata          [variable]       3456/33554432 ( 0.0%)
+lightdata        [variable]          0/50331648 ( 0.0%)
+visdata          [variable]          0/8388608  ( 0.0%)
+entdata          [variable]      39766/2097152  ( 1.9%)
+* AllocBlock       22/64             0/0        (34.4%)
+30 textures referenced
+=== Total BSP file data space used: 641670 bytes ===
+Wad files required to run the map: "fonts.wad;gfx.wad;halflife.wad;liquids.wad;tempdecal.wad;xeno.wad;hlof.wad;"
+0.95 seconds elapsed
+
+-----   END   sdHLBSP -----
+
+
+
+sdHLVIS v1.1.2 64-bit (Sep  9 2022)
+seedee's Half-Life Compilation Tools
+Based on code modifications by Sean 'Zoner' Cavanaugh and Vluzacn
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (github.com/seedee/SDHLT/issues)
+-----  BEGIN  sdHLVIS -----
+Command line: "C:/Users/Joe/Desktop/Modding and  Mapping/Seedees/tools/sdHLVIS_x64.exe" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\maps\sl_damnation" 
+Arguments: "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\maps\sl_damnation" -low 
+ 489 portalleafs
+1487 numportals
+
+-= Current sdHLVIS Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [      12 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [      on ] [      on ]
+estimate            [     off ] [     off ]
+max texture memory  [ 33554432 ] [ 33554432 ]
+max vis distance    [       0 ] [       0 ]
+priority            [     Low ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [     off ] [     off ]
+nofixprt            [     off ] [     off ]
+
+
+BasePortalVis:
+ (0.01 seconds)
+LeafThread:
+ (0.84 seconds)
+average leafs visible: 169
+g_visdatasize:54464  compressed from 30318
+
+Reading portal file 'C:\Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\maps\sl_damnation.prt'
+Reduced 1978 lines to 1489
+Optimization for J.A.C.K. map editor successful, writing portal file 'C:\Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\maps\sl_damnation.prt'
+
+Object names  Objects/Maxobjs  Memory / Maxmem  Fullness
+------------  ---------------  ---------------  --------
+models             21/512         1344/32768    ( 4.1%)
+planes           3305/32768      66100/655360   (10.1%)
+vertexes         7337/65535      88044/786420   (11.2%)
+nodes            2410/32767      57840/786408   ( 7.4%)
+texinfos          480/32767      19200/1310680  ( 1.5%)
+faces            5291/65535     105820/1310700  ( 8.1%)
+* worldfaces     5008/32768          0/0        (15.3%)
+clipnodes        5439/32767      43512/262136   (16.6%)
+leaves           1722/32760      48216/917280   ( 5.3%)
+* worldleaves    1562/8192           0/0        (19.1%)
+marksurfaces     7910/65535      15820/131070   (12.1%)
+surfedges       24802/512000     99208/2048000  ( 4.8%)
+edges           13336/256000     53344/1024000  ( 5.2%)
+texdata          [variable]       3456/33554432 ( 0.0%)
+lightdata        [variable]          0/50331648 ( 0.0%)
+visdata          [variable]      54464/8388608  ( 0.6%)
+entdata          [variable]      39766/2097152  ( 1.9%)
+* AllocBlock       22/64             0/0        (34.4%)
+30 textures referenced
+=== Total BSP file data space used: 696134 bytes ===
+Wad files required to run the map: "fonts.wad;gfx.wad;halflife.wad;liquids.wad;tempdecal.wad;xeno.wad;hlof.wad;"
+0.90 seconds elapsed
+
+-----   END   sdHLVIS -----
+
+
+
+sdHLRAD v1.1.2 64-bit (Sep  9 2022)
+seedee's Half-Life Compilation Tools
+Based on code modifications by Sean 'Zoner' Cavanaugh and Vluzacn
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (github.com/seedee/SDHLT/issues)
+-----  BEGIN  sdHLRAD -----
+Command line: "C:/Users/Joe/Desktop/Modding and  Mapping/Seedees/tools/sdHLRAD_x64.exe" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\maps\sl_damnation" 
+Arguments: "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\maps\sl_damnation" -low 
+
+-= Current sdHLRAD Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                12 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [                on ] [                on ]
+estimate             [               off ] [               off ]
+max texture memory   [          33554432 ] [          33554432 ]
+max lighting memory  [          50331648 ] [          50331648 ]
+priority             [               Low ] [            Normal ]
+
+fast rad             [               off ] [               off ]
+vismatrix algorithm  [            Sparse ] [            Sparse ]
+oversampling (-extra)[               off ] [               off ]
+bounces              [                 8 ] [                 8 ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+light limit threshold[           188.000 ] [           188.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+smoothing threshold 2[         no change ] [         no change ]
+direct threshold     [            10.000 ] [            10.000 ]
+direct light scale   [             1.000 ] [             1.000 ]
+coring threshold     [             0.010 ] [             0.010 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global texlight gap  [             0.000 ] [             0.000 ]
+global light scale   [ 2.000 2.000 2.000 ] [ 2.000 2.000 2.000 ]
+global gamma         [ 0.550 0.550 0.550 ] [ 0.550 0.550 0.550 ]
+global light scale   [             2.000 ] [             2.000 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+spread angles        [                on ] [                on ]
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+colour jitter        [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+monochromatic jitter [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+
+custom shadows with bounce light
+                     [               off ] [               off ]
+rgb transfers        [               off ] [               off ]
+minimum final light  [                 0 ] [                 0 ]
+size of transfer     [         1 (16bit) ] [         1 (16bit) ]
+size of rgbtransfer  [         2 (32bit) ] [         2 (32bit) ]
+soft sky             [                on ] [                on ]
+translucent depth    [             2.000 ] [             2.000 ]
+block opaque         [                on ] [                on ]
+ignore textures      [               off ] [               off ]
+reflectivity gamma   [             1.760 ] [             1.760 ]
+reflectivity scale   [             0.700 ] [             0.700 ]
+blur size            [             1.500 ] [             1.500 ]
+no emitter range     [               off ] [               off ]
+wall bleeding fix    [                on ] [                on ]
+
+
+Load Textures:
+Using Wadfile: C:\Program Files (x86)\Steam\steamapps\common\Half-Life\halogs\maps\sl_damnation.wa_
+30 textures referenced
+Reading texlights from 'C:\Users\Joe\Desktop\Modding and  Mapping\Seedees\tools\lights.rad'
+0 opaque models
+0 opaque faces
+5291 faces
+Create Patches : 23134 base patches
+389172 square feet [56040776.00 square inches]
+89 direct lights and 16386 fast direct lights
+2 light styles
+
+FindFacePositions:
+ (0.49 seconds)
+BuildFacelights:
+ (6.93 seconds)
+BuildVisLeafs:
+ (2.47 seconds)
+visibility matrix   :  14.0 megs
+MakeScales:
+ (1.73 seconds)
+Transfer Lists :    34804355 :    34.80M transfers
+       Indices :    18994752 :    18.11M bytes
+          Data :    69674710 :    66.45M bytes
+Bounce 1 GatherLight:
+ (0.10 seconds)
+Bounce 2 GatherLight:
+ (0.12 seconds)
+Bounce 3 GatherLight:
+ (0.12 seconds)
+Bounce 4 GatherLight:
+ (0.12 seconds)
+Bounce 5 GatherLight:
+ (0.12 seconds)
+Bounce 6 GatherLight:
+ (0.12 seconds)
+Bounce 7 GatherLight:
+ (0.12 seconds)
+Bounce 8 GatherLight:
+ (0.12 seconds)
+CreateTriangulations:
+ (0.03 seconds)
+AddPatchLights:
+ (1.41 seconds)
+FinalLightFace:
+ (0.01 seconds)
+
+Object names  Objects/Maxobjs  Memory / Maxmem  Fullness
+------------  ---------------  ---------------  --------
+models             21/512         1344/32768    ( 4.1%)
+planes           3305/32768      66100/655360   (10.1%)
+vertexes         7337/65535      88044/786420   (11.2%)
+nodes            2410/32767      57840/786408   ( 7.4%)
+texinfos          480/32767      19200/1310680  ( 1.5%)
+faces            5291/65535     105820/1310700  ( 8.1%)
+* worldfaces     5008/32768          0/0        (15.3%)
+clipnodes        5439/32767      43512/262136   (16.6%)
+leaves           1722/32760      48216/917280   ( 5.3%)
+* worldleaves    1562/8192           0/0        (19.1%)
+marksurfaces     7910/65535      15820/131070   (12.1%)
+surfedges       24802/512000     99208/2048000  ( 4.8%)
+edges           13336/256000     53344/1024000  ( 5.2%)
+texdata          [variable]       3456/33554432 ( 0.0%)
+lightdata        [variable]    1138107/50331648 ( 2.3%)
+visdata          [variable]      54464/8388608  ( 0.6%)
+entdata          [variable]      39766/2097152  ( 1.9%)
+* AllocBlock       22/64             0/0        (34.4%)
+30 textures referenced
+=== Total BSP file data space used: 1834241 bytes ===
+Wad files required to run the map: "fonts.wad;gfx.wad;halflife.wad;liquids.wad;tempdecal.wad;xeno.wad;hlof.wad;"
+14.31 seconds elapsed
+
+-----   END   sdHLRAD -----
+
+
+
