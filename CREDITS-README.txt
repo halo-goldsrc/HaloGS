@@ -5,30 +5,34 @@ Thank you for playing/downloading this mod. I really appreciate all of the atten
 
 
 		     ---CREDITS---
-			  -Lead Dev-
-	(
-	CODING, MAPPING, PORTING, ETC.)
-			  Seal Zebra
-
-
- -Mod Contributors (AKA The Science Team)-
+	
+-CODING, PROJECT MANAGEMENT, ASSETS, ETC.-
+		Seal Zebra (Source Luigi)
+		  Keydov (Ghost Germ)
 		
 		  -UI, SPRITES, GITHUB-
-		  Keydov (Ghost Germ)
-			
+				Keydov 
+		  
+	 -MODELING, ANIMATING, PORTING-
+			   Seal Zebra
 
-		-SOUND EFFECTS, MODELS-
-			Blindside8898
+		 -SOUND EFFECTS, MODELS-
+			 Blindside8898
 
-  	    -MAPPERS/MAPPING HELP-
-			  Jokurino
-			NoahAllen522
-			 .xstephx
+  	     -MAPPERS/MAPPING HELP-
+			  Seal Zebra
+			   Jokurino
+			 NoahAllen522
+		      .xstephx
+			  crowenator
+				b1rd
+			   eyeling
+			 
 
 		-IDEAS/HELP/PLAYTESTERS-
-			Gavsterchief
-			MasterPotato
-			 DustZMann
+			 Gavsterchief
+			 MasterPotato
+			  DustZMann
 
 
 
@@ -39,12 +43,14 @@ Valve Software
 Gearbox Studios
 		
 		
-ADDITIONAL MODELS/SOUNDS:
+ADDITIONAL MODELS/SOUNDS/TEXTURES:
+Valve Software
 Bungie 
 Microsoft Studios	
+Gearbox Studios
 
 
-GAMEBANANA ADDONS:	
+		--GAMEBANANA ADDONS--
 Halo Shotgun & AR Replacements:
 HeadCrusher - https://gamebanana.com/mods/179930
 
