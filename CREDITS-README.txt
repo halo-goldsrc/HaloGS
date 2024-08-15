@@ -7,7 +7,7 @@ Thank you for playing/downloading this mod. I really appreciate all of the atten
 		     ---CREDITS---
 	
 -CODING, PROJECT MANAGEMENT, ASSETS, ETC.-
-		Seal Zebra (Source Luigi)
+		Seal Zebra (SourceLuigi)
 		  Keydov (Ghost Germ)
 		
 		  -UI, SPRITES, GITHUB-
@@ -48,6 +48,30 @@ Valve Software
 Bungie 
 Microsoft Studios	
 Gearbox Studios
+
+
+				--MAPS--
+				
+eyeling:
+Firefight Amber Clad (ff_amber_clad)
+Derelict (sl_derelict)
+
+crowenator:
+BloodGulch (sl_bloodgulch_crow)
+
+b1rd:
+Foundation (sl_foundation_b4)
+Lockout (sl_lockout_b3)
+Bounding Action (sl_boundingaction_rc3)
+
+NoahAllen522:
+ChironTL-34 (sl-chirontl34_b)
+
+Seal Zebra:
+Rat Race (sl_ratrace)
+Damnation (sl_damnation)
+Fire Range (fire_range)
+Bootcamp (sl_bootcamp)
 
 
 		--GAMEBANANA ADDONS--
