@@ -13755,3 +13755,23 @@
 "targetname" "shake"
 "origin" "-702 -856 36"
 }
+{
+"classname" "info_player_deathmatch"
+"angles" "0 0 0"
+"origin" "-192 -320 -60"
+}
+{
+"classname" "info_player_deathmatch"
+"angles" "0 180 0"
+"origin" "860.232 -897.105 36"
+}
+{
+"classname" "info_player_deathmatch"
+"angles" "0 225 0"
+"origin" "2064.15 -132.972 36"
+}
+{
+"classname" "info_player_deathmatch"
+"angles" "0 225 0"
+"origin" "1253.15 344 36"
+}
