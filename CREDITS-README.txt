@@ -8,10 +8,10 @@ Thank you for playing/downloading this mod. I really appreciate all of the atten
 	
 -CODING, PROJECT MANAGEMENT, ASSETS, ETC.-
 		Seal Zebra (SourceLuigi)
-		  Keydov (Ghost Germ)
+		  arcadejumpers (Ghost Germ)
 		
 		  -UI, SPRITES, GITHUB-
-				Keydov 
+				arcadejumpers 
 		  
 	 -MODELING, ANIMATING, PORTING-
 			   Seal Zebra
