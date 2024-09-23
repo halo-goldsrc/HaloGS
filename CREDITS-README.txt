@@ -11,7 +11,8 @@ Thank you for playing/downloading this mod. I really appreciate all of the atten
 		  Kevdoy (Ghost Germ)
 		
 		  -UI, SPRITES, GITHUB-
-				Kevdoy 
+				Kevdoy
+			sabianroberts				
 		  
 	 -MODELING, ANIMATING, PORTING-
 			   Seal Zebra
@@ -68,7 +69,7 @@ Foundation (sl_foundation_b4)
 Lockout (sl_lockout_b3)
 Bounding Action (sl_boundingaction_rc3)
 Prisoner (sl_prisoner_b2)
-Down Rush (sl_downrush_a6)
+Downrush (sl_downrush_a6)
 
 NoahAllen522:
 ChironTL-34 (sl-chirontl34_b)
