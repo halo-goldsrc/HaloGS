@@ -171,7 +171,7 @@ Scheme
 			"WidescreenBarColor" 		"0 0 0 0"
 			"MenuItemVisibilityRate"	"0.02"  // time it takes for one menu item to appear
 			"MenuItemHeight"			"48" // this is proportional to resolution
-			"GameMenuInset"				"500"
+			"GameMenuInset"				"110"
 		}
 
 		"SectionTextColor"		"BrightControlText"	// text color for IN-GAME, ONLINE, OFFLINE sections of buddy list
