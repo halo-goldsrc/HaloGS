@@ -28,7 +28,13 @@
 		"label" "CUSTOM GAME"
 		"command" "OpenCreateMultiplayerGameDialog"
 	}
-	"6"
+		"6"
+	{
+		"label" "FIRING RANGE"
+		"command" "OpenNewGameDialog"
+		"NotMulti" "1"
+	}
+	"7"
 	{
 		"label" "SETTINGS"
 		"command" "OpenOptionsDialog"

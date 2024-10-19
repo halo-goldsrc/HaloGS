@@ -8,10 +8,11 @@ Thank you for playing/downloading this mod. I really appreciate all of the atten
 	
 -CODING, PROJECT MANAGEMENT, ASSETS, ETC.-
 		Seal Zebra (SourceLuigi)
-		  arcadejumpers (Ghost Germ)
+		  Kevdoy (Ghost Germ)
 		
 		  -UI, SPRITES, GITHUB-
-				arcadejumpers 
+				Kevdoy
+			sabianroberts				
 		  
 	 -MODELING, ANIMATING, PORTING-
 			   Seal Zebra
@@ -27,6 +28,7 @@ Thank you for playing/downloading this mod. I really appreciate all of the atten
 			  crowenator
 				b1rd
 			   eyeling
+			 Marianoa213
 			 
 
 		-IDEAS/HELP/PLAYTESTERS-
@@ -55,7 +57,9 @@ Experience Hendrix
 				
 eyeling:
 Firefight Amber Clad (ff_amber_clad)
+Firefight Infinite Succor (ff_infinite_succor)
 Derelict (sl_derelict)
+Beavercreek (sl_beavercreek)
 
 crowenator:
 BloodGulch (tsl_bloodgulch)
@@ -64,9 +68,14 @@ b1rd:
 Foundation (sl_foundation_b4)
 Lockout (sl_lockout_b3)
 Bounding Action (sl_boundingaction_rc3)
+Prisoner (sl_prisoner_b2)
+Downrush (sl_downrush_a6)
 
 NoahAllen522:
 ChironTL-34 (sl-chirontl34_b)
+
+Marianoa213:
+Chill Out (sl_chillout_final)
 
 Seal Zebra:
 Rat Race (sl_ratrace)

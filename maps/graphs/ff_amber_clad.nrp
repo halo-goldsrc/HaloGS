@@ -1936,7 +1936,6 @@ Node #  52:
 Node #  53:
 
   54
-  57
   59
   60  Entity on connection: func_wall, name:   Model: *21
   61  Entity on connection: func_wall, name:   Model: *21
@@ -2340,7 +2339,7 @@ Node #  79:
   78
 ----------------------------------------------------------------------------
 
-1613 Total Initial Connections -   40 Maximum connections for a single node.
+1612 Total Initial Connections -   40 Maximum connections for a single node.
 ----------------------------------------------------------------------------
 
 
@@ -4078,15 +4077,13 @@ Rejected Node  24 - Unreachable by Any Hull
 Node   53:
 
 NODE_HUMAN_HULL step 0
-NODE_SMALL_HULL step 80
-Rejected Node  57 - Unreachable by Any Hull
-NODE_HUMAN_HULL step 0
 NODE_HUMAN_HULL step 0
 NODE_SMALL_HULL step 32
 Rejected Node  60 - Unreachable by Any Hull
 NODE_HUMAN_HULL step 0
 NODE_SMALL_HULL step 48
 Rejected Node  61 - Unreachable by Any Hull
+NODE_HUMAN_HULL step 0
 -------------------------------------------------------------------------------
 Node   54:
 
